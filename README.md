@@ -1,13 +1,20 @@
-# 3_make_your_burger
+# Make Your Burger
+```
+Projeto final do curso de Vue 3 - Hora de Codar Youtube
 
 ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compilar e Executar o Projeto em VUE.JS
 ```
 npm run serve
+```
+
+### Executar o Json Serve em outro terminal executar
+```
+npm run backend
 ```
 
 ### Compiles and minifies for production
